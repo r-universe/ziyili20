@@ -8,6 +8,11 @@
 	url = https://github.com/cran/caROC
 	shallow = true
 	registered = true
+[submodule "partCNV"]
+	path = partCNV
+	url = https://git.bioconductor.org/packages/partCNV
+	shallow = true
+	registered = true
 [submodule "TOAST"]
 	path = TOAST
 	url = https://github.com/ziyili20/toast

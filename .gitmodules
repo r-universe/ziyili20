@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "TOAST"]
+	path = TOAST
+	url = https://github.com/ziyili20/toast
 [submodule "caROC"]
 	path = caROC
 	url = https://github.com/cran/caROC
 [submodule "partCNV"]
 	path = partCNV
 	url = https://git.bioconductor.org/packages/partCNV
-[submodule "TOAST"]
-	path = TOAST
-	url = https://github.com/ziyili20/toast

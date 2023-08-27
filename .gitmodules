@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RegionalST"]
+	path = RegionalST
+	url = https://github.com/ziyili20/regionalst
 [submodule "TOAST"]
 	path = TOAST
 	url = https://github.com/ziyili20/toast
